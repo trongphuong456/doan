@@ -13,7 +13,7 @@ const Footer = () => {
         </S.FooterContent>
         <S.FooterContent>
           <p>ABOUT</p>
-          <S.LinkFooter to="/about">About123</S.LinkFooter>
+          <S.LinkFooter to="/about">About</S.LinkFooter>
           <S.LinkFooter to="/contact">Contact</S.LinkFooter>
           <S.LinkFooter to="/events">Events</S.LinkFooter>
           <S.LinkFooter to="/trivacy">Privacy Policy</S.LinkFooter>
